@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gcanvas_library-1.4.2.25">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/weexplugin/build/intermediates/exploded-aar/com.taobao.android.gcanvas/gcanvas_library/1.4.2.25/res" />
+      <root url="jar://$PROJECT_DIR$/weexplugin/build/intermediates/exploded-aar/com.taobao.android.gcanvas/gcanvas_library/1.4.2.25/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/caches/modules-2/files-2.1/com.taobao.android.gcanvas/gcanvas_library/1.4.2.25/a6cbf79e37994402fc4de98cf11c7d1e22d5aae2/gcanvas_library-1.4.2.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

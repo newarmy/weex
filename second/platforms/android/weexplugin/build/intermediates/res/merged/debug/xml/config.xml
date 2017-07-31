@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.myapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Weex</name>
+    <description>
+        A sample Weex application.
+    </description>
+    <author email="" href="">
+        Weex Team
+    </author>
+    <feature name="WXGCanvasModule">
+        <param name="category" value="module" />
+        <param name="android-package" value="com.taobao.weex.ui.module.GcanvasModule" />
+        <param name="api" value="gcanvas" />
+    </feature>
+    <feature name="WXGcanvasComponent">
+        <param name="category" value="component" />
+        <param name="android-package" value="com.alibaba.weex.extend.component.WXGcanvasComponent" />
+        <param name="api" value="gcanvas" />
+    </feature>
+</widget>

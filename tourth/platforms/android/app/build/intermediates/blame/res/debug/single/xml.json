@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\xinjundong\\weex\\tourth\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\xinjundong\\weex\\tourth\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\android\\weexplugin\\unspecified\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\xinjundong\\weex\\tourth\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "D:\\xinjundong\\weex\\tourth\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    }
+]

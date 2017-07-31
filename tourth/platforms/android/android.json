@@ -1,0 +1,38 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"WXGCanvasModule\"><param name=\"category\" value=\"module\" /><param name=\"android-package\" value=\"com.taobao.weex.ui.module.GcanvasModule\" /><param name=\"api\" value=\"gcanvas\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"WXGcanvasComponent\"><param name=\"category\" value=\"component\" /><param name=\"android-package\" value=\"com.alibaba.weex.extend.component.WXGcanvasComponent\" /><param name=\"api\" value=\"gcanvas\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "weex-gcanvas": {
+            "PACKAGE_NAME": "com.alibaba.weex"
+        },
+        "weex-chart": {
+            "PACKAGE_NAME": "com.alibaba.weex"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [],
+    "plugin_metadata": {
+        "weex-gcanvas": "0.3.3",
+        "weex-chart": "0.3.2"
+    }
+}

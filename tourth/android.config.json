@@ -1,0 +1,6 @@
+{
+  "AppName":"TestApp",
+  "AppId":"com.sohu.test",
+  "SplashText":"Hello Test",
+  "WeexBundle":"index.js"
+}
